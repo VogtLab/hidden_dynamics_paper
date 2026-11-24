@@ -1,0 +1,6 @@
+numpy==2.3.5
+pandas==2.2.3
+scipy==1.17.0
+matplotlib==3.10.8
+plotly==5.20.0
+cycler==0.12.1
